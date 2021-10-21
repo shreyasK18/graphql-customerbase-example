@@ -8,7 +8,7 @@
     },
     {
       "id": "3",
-      "name": "Sonia Mohan",
+      "name": "Sonia M",
       "email": "shreyas3@gmail.com",
       "age": 34
     },
@@ -27,6 +27,13 @@
      {
       "id": "6",
       "name": "Shreyas Kanchan",
+      "email": "shreyas5@gmail.com",
+      "age": "26","mobile":"123456"
+
+    },
+    {
+      "id": "7",
+      "name": "Akshay",
       "email": "shreyas5@gmail.com",
       "age": "26","mobile":"123456"
 
