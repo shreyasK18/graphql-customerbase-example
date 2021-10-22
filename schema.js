@@ -8,7 +8,7 @@ const {
     GraphQLList
 } = require('graphql');
 
-// Hardcoded data
+
 
 // const customers=[
 //     {id:"1",name:"Shreyas",email:"shreyas@gmail.com",age:"23"},
