@@ -8,8 +8,8 @@ const {
     GraphQLList
 } = require('graphql');
 
-// Hardcoded data
 
+// Customer Details
 // const customers=[
 //     {id:"1",name:"Shreyas",email:"shreyas@gmail.com",age:"23"},
 //     {id:"2",name:"Shravan",email:"shreyas2@gmail.com",age:"24"},
@@ -29,7 +29,7 @@ const CustomerType=new GraphQLObjectType({
     })
 });
 
-// Root Query 
+// Root Query ---
 const RootQuery=new GraphQLObjectType({
     name:'RootQueryType',
     fields:{
