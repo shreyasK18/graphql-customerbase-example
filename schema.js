@@ -29,7 +29,7 @@ const CustomerType=new GraphQLObjectType({
     })
 });
 
-// Root Query 
+// Root Query ---
 const RootQuery=new GraphQLObjectType({
     name:'RootQueryType',
     fields:{
